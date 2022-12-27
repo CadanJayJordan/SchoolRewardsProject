@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF2C6551-17B8-47EC-9D49-5328DC7821AA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SchoolRewardsProject</RootNamespace>
+    <AssemblyName>SchoolRewardsProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Utillies.cs" />
+    <Compile Include="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStartup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStartup.Designer.cs">
+      <DependentUpon>frmStartup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmPointChangeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmPointChangeLog.Designer.cs">
+      <DependentUpon>frmPointChangeLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmPupil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmPupil.Designer.cs">
+      <DependentUpon>frmPupil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmRedeemRewards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmRedeemRewards.Designer.cs">
+      <DependentUpon>frmRedeemRewards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmRewardRedemptionLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Pupil\frmRewardRedemptionLog.Designer.cs">
+      <DependentUpon>frmRewardRedemptionLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Staff\Administration\frmAdministration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Staff\Administration\frmAdministration.Designer.cs">
+      <DependentUpon>frmAdministration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Staff\Administration\frmEditAllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Staff\Administration\frmEditAllUsers.Designer.cs">
+      <DependentUpon>frmEditAllUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Staff\frmEditPupilPoints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Staff\frmEditPupilPoints.Designer.cs">
+      <DependentUpon>frmEditPupilPoints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Staff\Head Of Year\frmHeadOfYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Staff\Head Of Year\frmHeadOfYear.Designer.cs">
+      <DependentUpon>frmHeadOfYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Staff\Teaching Staff\frmTeachingStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Staff\Teaching Staff\frmTeachingStaff.Designer.cs">
+      <DependentUpon>frmTeachingStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="schoolDBDataSet.cs">
+      <DependentUpon>schoolDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="schoolDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>schoolDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStartup.resx">
+      <DependentUpon>frmStartup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pupil\frmPointChangeLog.resx">
+      <DependentUpon>frmPointChangeLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pupil\frmPupil.resx">
+      <DependentUpon>frmPupil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pupil\frmRedeemRewards.resx">
+      <DependentUpon>frmRedeemRewards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pupil\frmRewardRedemptionLog.resx">
+      <DependentUpon>frmRewardRedemptionLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Staff\Administration\frmAdministration.resx">
+      <DependentUpon>frmAdministration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Staff\Administration\frmEditAllUsers.resx">
+      <DependentUpon>frmEditAllUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Staff\frmEditPupilPoints.resx">
+      <DependentUpon>frmEditPupilPoints.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="schoolDBDataSet.xsc">
+      <DependentUpon>schoolDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="schoolDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>schoolDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="schoolDBDataSet.xss">
+      <DependentUpon>schoolDBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

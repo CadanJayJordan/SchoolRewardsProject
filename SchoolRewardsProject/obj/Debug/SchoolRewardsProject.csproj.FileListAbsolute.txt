@@ -1,0 +1,316 @@
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\SchoolRewardsProject\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week1_WC_09.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week2_WC_13.12.21\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week3_WC_10.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week4_WC_17.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week5_WC_24.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.SuggestedBindingRedirects.cache
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week6_WC_31.01.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week7_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week07_WC_06.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week08_WC_14.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPointChangeLog.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week09_WC_21.02\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPointChangeLog.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week09_WC_21.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPointChangeLog.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week10_WC_28.02.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPointChangeLog.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week11_WC_07.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPointChangeLog.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week12_WC_14.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPointChangeLog.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Temporary Workspace\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe.config
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\bin\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.frmLogin.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.frmStartup.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPointChangeLog.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmPupil.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRedeemRewards.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Pupil.frmRewardRedemptionLog.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmAdministration.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.Administration.frmEditAllUsers.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Forms.Staff.frmEditPupilPoints.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.Properties.Resources.resources
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.GenerateResource.cache
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.CoreCompileInputs.cache
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\Desktop\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.AssemblyReference.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.exe
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\SchoolRewardsProject\Week13_WC_21.03.22\SchoolRewardsProject\SchoolRewardsProject\obj\Debug\SchoolRewardsProject.pdb
